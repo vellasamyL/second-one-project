@@ -1,0 +1,37 @@
+ @media (max-width:768px){
+    .container{
+        width:100%;
+    }
+    .finish-2{
+        padding: 20px 0;
+    }
+    .report h4{
+        margin-top: 0;
+    }
+    .boxes-sec{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+.box-2{
+    width:100%;
+}
+.contact-head{
+    text-align: center;
+}
+.contact-head h1{
+    padding: 20px 0;
+}
+    .footer-paras{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .footer-paras h1{
+        text-align: center;
+    }
+    .finish-1{
+        text-align: center;
+    }
+   
+ }
